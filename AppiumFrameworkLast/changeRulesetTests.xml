@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="Android">
+		<listeners>
+			<listener class-name="com.qa.listeners.TestListener" />
+		</listeners>
+		<parameter name="emulator" value="false" />
+		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="0b0ec1d4ea9a07f7" />
+		<parameter name="deviceName" value="54C9DFE03CB9" />
+		<parameter name="systemPort" value="10000" />
+		<parameter name="chromeDriverPort" value="11000" />
+		<classes>
+			<class name="com.qa.tests.ChangeRulesetTests"></class>
+			<methods>
+			<include name="LoginUsers" />
+				<include name="RuleSetUs8Day" />
+				<include name="UsOil8DayRuleset" />
+				<include name="HomeOfficeRuleset" />
+				<include name="TexasOil7Ruleset" />
+				<include name="Canada2007Cycle1RulesetRuleset" />
+				<include name="Canada2007Cycle2RulesetRuleset" />
+				<include name="Canada200760DegreesCycle1" />
+				<include name="Canada200760DegreesCycle2" />
+				<include name="Canada2007OilFieldPermit" />
+				<include name="Canada200760DegreesOilFieldPermit" />
+				<include name="Us7DayRuleset" />
+				<include name="UsWaterWellDriller7Day" />
+				<include name="UsWaterWellDriller8Day" />
+				<include name="UsOil8DayNoWaitExemption" />
+				<include name="UsPassengerCarrying8Day" />
+				<include name="Oklahoma8Day" />
+				<include name="Oklahoma7Day" />
+				<include name="Alaska8Day" />
+				<include name="California8day" />
+				
+
+			</methods>
+			
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->

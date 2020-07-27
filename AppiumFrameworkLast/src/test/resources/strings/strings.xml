@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Error Text -->
+    <string name="err_invalid_username_or_password">Employee ID is empty</string>
+    <string name="err_empty_name">Last name is empty</string>
+    <string name="dashboard_title">ELD Dashboard</string>
+**********************************************************************************************************    
+    <!-- ELD Dashboard Page Driver details -->    
+    <string name="eldDashboard_page_driver_name">Admin01 Admin01</string>
+    <string name="eldDashboard_page_driver_id">id: ADMIN01</string>
+    <string name="title_rul_Seta_us_8_day">US 8 Day</string>
+    <string name="title_rul_Seta_us_Oil_8_day">US Oil 8 Day</string>
+    <string name="title_rul_Seta_us_home_office">US Home Office</string>
+    <string name="title_rul_seta_texas_oil_7">Texas Oil 7</string>
+    <string name="title_rul_seta_canada_2007_cycle_1">Canada 2007 Cycle 1</string>
+    <string name="title_rul_seta_canada_2007_cycle_2">Canada 2007 Cycle 2</string>
+    <string name="title_rul_seta_canada_2007_60_degrees_cycle_1">Canada 2007 60 Degrees Cycle 1</string>
+
+
+**********************************************************************************************************    
+    <!-- ELD Eld Duty State Page details -->    
+    <string name="duty_state_title">ELD Log In</string>
+    <string name="duty_state_sleeper_berth_title">Sleeper Berth</string>
+    <string name="duty_state_personal_use_title">Personal Use</string>
+    <string name="duty_state_driving_title">Driving</string>
+    <string name="duty_state_off_duty_title">Off Duty</string>
+    <string name="duty_state_no_driver_logged_in_title">No Driver Logged In</string>
+    
+
+//*********************************************************************************************************
+    <!-- Troubleshjjting Page details -->    
+    <string name="troubleshooting_log_title">Troubleshooting Log</string>
+
+
+
+    <string name="get_seatbelt_state">Get seatbelt state...
+
+Seatbelt state is unknown</string>
+    
+    
+    
+
+    <string name="get_ignition_state">Get ignition state...
+
+Ignition is ON</string>
+
+
+
+
+    <string name="get_load_eumulation_file">Load eumulation file...
+
+This command is not supported at this time</string>
+
+
+
+
+    <string name="get_request_configuration">Request configuration...
+
+Request settings succeeded</string>
+
+
+    <string name="get_send_configuration">Send configuration...
+
+Transmission of settings succeeded</string>
+
+
+
+
+    <string name="get_test_satellite">Test satellite...
+
+Check satellite connection...No Sat modem detected</string>
+
+
+    <string name="get_test_gprs">Test gprs...
+
+Check data mobile connection...Success</string>
+
+
+
+    <string name="get_back_btn">Back</string>
+    
+    
+    
+   <string name="get_put_system_to_sleep">Put system to sleep...
+
+Please turn ignition off, wait 10s, and try again</string>
+
+<string name="get_reboot_system">Reboot system...
+
+Rebooting...</string>
+
+<string name="get_program_trailer_title">Program New Trailer ID</string>      
+
+
+********************************************************************************************************************
+    <!-- Setting Page details -->    
+    <string name="troubleshooting_btn">Troubleshooting</string>
+    
+    
+
+
+	
+
+</resources>

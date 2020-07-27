@@ -1,0 +1,32 @@
+{
+	"invalidUser":{
+		"username":"",
+		"password":"Name",
+		"enterRegistration":"Name"
+	},
+	"invalidPassword":{
+		"username":"Name",
+		"password":"",
+		"enterRegistration":"Name"
+	},
+	"validUser":{
+		"username":"Name",
+		"password":"Name",
+		"enterRegistration":"Name"
+	},
+	"troubleshootingPw":{		
+		"password":"Name"
+		
+	},
+	"newtrailerID":{
+		"trailerID":"HHHHH"		
+		
+	},
+	
+	"driverIndicationCommen":{
+		"commen":"Driver Indication Comment"
+		
+				
+			
+	}
+}
